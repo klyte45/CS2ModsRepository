@@ -1,0 +1,9 @@
+{
+        "name": "ExtraUIScreens",
+        "version_number": "0.0.0",
+        "website_url": "",
+        "description": "Add support to more monitors for UI in the game, also add tools to add UI applications.",
+        "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+        ]
+        }
