@@ -2,7 +2,7 @@
 
 This was just an emergency repository while the mods were neither at Thunderstore nor Paradox Mods.
 
-You can check/subscribe/download them [at Thunderstore](https://thunderstore.io/c/cities-skylines-ii/p/Klyte45/)
+You can check/subscribe/download them [at Simtropolis](https://community.simtropolis.com/profile/253604-klyte45/)
 
 ## Support topics at Discord (with install instructions)
 
